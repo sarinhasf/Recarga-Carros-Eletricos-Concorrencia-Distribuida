@@ -1,0 +1,19 @@
+{
+  "veiculos": [
+    {
+      "placa": "padrao",
+      "autonomia": 600,
+      "batery_level": 80
+    },
+    {
+      "placa": "UTE0Q79",
+      "autonomia": 510,
+      "batery_level": 10
+    },
+    {
+      "placa": "123456",
+      "autonomia": 659,
+      "batery_level": 89
+    }
+  ]
+}

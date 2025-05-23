@@ -1,0 +1,14 @@
+COMANDOS: 
+1: docker-compose build: para bildar as iamgens do projeto
+2: docker-compose create: criar os containers sem iniciar 
+3: docker ps -a: verifica os containers criados
+4: docker-compose start nome-servico: inicia um containers em especifico; ex: docker-compose start service
+5: docker-compose start servico1 servico2 servico3: para starta mais de um container ao msm tempo 
+6: docker logs server: para ver os logs do servico
+7: docker start -ai veiculo: Se o container já foi criado, vc entra assim no terminal interativo
+8: docker-compose stop: parar containers
+9: docker-compose down: remover containers criados
+10: docker system prune -a --volumes: server para limpar tudo do docker
+11: docker-compose up build: constroi e bilda
+12: docker-compose up: sobe os containers
+13: docker run -it client: permite entrada interativa

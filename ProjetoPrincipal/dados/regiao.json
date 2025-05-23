@@ -1,0 +1,87 @@
+{
+  "pontos_de_recarga": [
+    {
+      "id": 1,
+      "cidade": "Salvador",
+      "estado": "Bahia",
+      "latitude": -12.9777378,
+      "longitude": -38.5016363,
+      "reservado": ""
+    },
+    {
+      "id": 2,
+      "cidade": "Aracaju",
+      "estado": "Sergipe",
+      "latitude": -10.9265404,
+      "longitude": -37.0731147,
+      "reservado": "PRE_test123"
+    },
+    {
+      "id": 3,
+      "cidade": "Maceio",
+      "estado": "Alagoas",
+      "latitude": -9.6660417,
+      "longitude": -35.7352167,
+      "reservado": ""
+    },
+    {
+      "id": 4,
+      "cidade": "Recife",
+      "estado": "Pernambuco",
+      "latitude": -8.0578381,
+      "longitude": -34.8828969,
+      "reservado": ""
+    },
+    {
+      "id": 5,
+      "cidade": "Joao Pessoa",
+      "estado": "Paraiba",
+      "latitude": -7.1188352,
+      "longitude": -34.8814339,
+      "reservado": "test1234"
+    },
+    {
+      "id": 6,
+      "cidade": "Natal",
+      "estado": "Rio Grande Do Norte",
+      "latitude": -5.7841695,
+      "longitude": -35.1999708,
+      "reservado": ""
+    },
+    {
+      "id": 7,
+      "cidade": "Fortaleza",
+      "estado": "Ceara",
+      "latitude": -3.7327203,
+      "longitude": -38.5270134,
+      "reservado": ""
+    },
+    {
+      "id": 8,
+      "cidade": "Teresina",
+      "estado": "Piaui",
+      "latitude": -5.0961242,
+      "longitude": -42.8023065,
+      "reservado": ""
+    },
+    {
+      "id": 9,
+      "cidade": "Sao Luis",
+      "estado": "Maranhao",
+      "latitude": -2.5306721,
+      "longitude": -44.2988947,
+      "reservado": ""
+    }
+  ],
+  "rota_salvador_saoLuis": [
+    "Salvador",
+    "Aracaju",
+    "Maceio",
+    "Recife",
+    "Joao Pessoa",
+    "Natal",
+    "Fortaleza",
+    "Teresina",
+    "Sao Luis"
+  ]
+}

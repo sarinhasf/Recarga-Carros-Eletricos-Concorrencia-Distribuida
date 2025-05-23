@@ -1,0 +1,13 @@
+services:
+  server2:
+    build: ./server
+    container_name: server2
+    ports:
+      - "8082:8082"
+    environment:
+      - ID=EMP2
+      - PORTA=8082
+    volumes:
+      - ./dados/dadosEmpresas.json:/app/dadosEmpresas.json
+      - ./dados/regiao.json:/app/regiao.json
+      - ./dados/dadosVeiculos.json:/app/dadosVeiculos.json

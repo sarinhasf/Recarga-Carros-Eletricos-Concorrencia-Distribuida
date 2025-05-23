@@ -1,0 +1,13 @@
+services:
+  server3:
+    build: ./server
+    container_name: server3
+    ports:
+      - "8083:8083"
+    environment:
+      - ID=EMP3
+      - PORTA=8083
+    volumes:
+      - ./dados/dadosEmpresas.json:/app/dadosEmpresas.json
+      - ./dados/regiao.json:/app/regiao.json
+      - ./dados/dadosVeiculos.json:/app/dadosVeiculos.json

@@ -1,0 +1,19 @@
+{
+    "empresas": [
+      {
+        "Id": "EMP1",
+        "Nome": "Empresa A",
+        "Pontos": ["Salvador","Aracaju","Maceio"] 
+      },
+      {
+        "Id": "EMP2",
+        "Nome": "Empresa B",
+        "Pontos": ["Recife","Joao Pessoa","Natal"]
+      },
+      {
+        "Id": "EMP3",
+        "Nome": "Empresa C",
+        "Pontos": ["Fortaleza","Teresina","Sao Luis"]
+      }
+    ]
+  }
