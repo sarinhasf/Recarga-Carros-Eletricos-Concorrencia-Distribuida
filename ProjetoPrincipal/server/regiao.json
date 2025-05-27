@@ -1,0 +1,13 @@
+{
+  "pontos_de_recarga": [
+    {
+      "id": 1,
+      "cidade": "PontoX",
+      "estado": "",
+      "latitude": 0,
+      "longitude": 0,
+      "reservado": "VEIC2"
+    }
+  ],
+  "rota_salvador_saoLuis": null
+}
